@@ -30,3 +30,4 @@ I'm Yüksel from Türkiye. I'm studying Computer Engineering or other name Compu
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yukseelalkis&layout=compact&hide=html" alt="Yuksel Alkis"
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yukseelalkis&show_icons=true&theme=tokyonight) 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yukseelalkis)](https://github.com/yukseelalkis/github-readme-stats)
