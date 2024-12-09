@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yukseelalkis" alt="Yüksel Alkış" /> </p>
 
-💻 I'm currently a student and i am improving myself
+I'm Yüksel from Türkiye, a recent graduate in Computer Engineering (also known as Computer Science) from Iskenderun Technical University. I specialize in Flutter development and am passionate about mobile software development. My focus is on building efficient, user-friendly, and visually appealing mobile applications.
 
-I'm Yüksel from Türkiye. I'm studying Computer Engineering or other name Computer Science at Iskenderun Technical University. Now I am a 4nd year student.
+I enjoy learning new technologies and constantly strive to improve my skills. With a solid foundation in software engineering principles, I am eager to contribute to impactful projects and grow as a developer in the mobile app industry.
 
 #
 
