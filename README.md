@@ -1,34 +1,52 @@
-<h1 align="center">Hi 👋, I'm Yuksel</h1>
-<h3 align="center">A passionate Computer engineering student from Türkiye</h3>
+<h1 align="center">Hi 👋, I'm Yüksel Alkış</h1>
+<h3 align="center">A Passionate Mobile & Backend Developer from Türkiye</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yukseelalkis" alt="Yüksel Alkış" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yukseelalkis&label=Profile%20Views" alt="Profile Views" />
+</p>
 
-I'm Yüksel from Türkiye, a recent graduate in Computer Engineering  from Iskenderun Technical University. I specialize in Flutter development and am passionate about mobile software development. My focus is on building efficient, user-friendly, and visually appealing mobile applications.
+## 🚀 About Me
 
-I enjoy learning new technologies and constantly strive to improve my skills. With a solid foundation in software engineering principles, I am eager to contribute to impactful projects and grow as a developer in the mobile app industry.
+I'm Yüksel, a **Computer Engineering graduate** from **Iskenderun Technical University**. I specialize in **Flutter** and **.NET** development, with a strong passion for building efficient, user-friendly, and visually appealing **mobile applications** and **backend systems**.
 
-#
+I enjoy exploring new technologies and continuously improving my skills. With a solid foundation in **software engineering principles**, I am eager to contribute to impactful projects and grow as a **mobile & backend developer**.
 
-### Languages and Tools
+---
 
-<img align="left" alt="Flutter" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
-<img align="left" alt="Dart" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />       
-<img align="left" alt="C#" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" />
-<img align="left" alt="C++" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />          
-<img align="left" alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Github" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="MSSQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
-<img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+## 🛠️ Languages and Tools
 
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" alt=".NET" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="MSSQL" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+</p>
 
-<br />
-<br />
-<br />
-<br />
+---
 
+## 📊 GitHub Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yukseelalkis" alt="Yuksel Alkis"
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yukseelalkis&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yukseelalkis&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yukseelalkis&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
+---
+
+## 📫 Connect with Me
+
+💼 **LinkedIn:** [linkedin.com/in/yukseelalkis](https://www.linkedin.com/in/yukseelalkis/)  
+👨‍💻 **GitHub:** [github.com/yukseelalkis](https://github.com/yukseelalkis)  
+
+---
+
+  Always learning and growing in mobile & backend development!
