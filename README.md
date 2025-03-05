@@ -32,13 +32,24 @@ I enjoy exploring new technologies and continuously improving my skills. With a 
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yukseelalkis&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+
+  <p align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=yukseelalkis&show_icons=true&theme=dark&include_all_commits=true&count_private=true&token=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" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yukseelalkis&layout=compact&theme=tokyonight" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+  <br>
+  <img src="https://streak-stats.demolab.com/?user=yukseelalkis&theme=tokyonight" alt="GitHub Streak Stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yukseelalkis&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+
+
 
 ---
 
