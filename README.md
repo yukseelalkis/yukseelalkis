@@ -45,7 +45,6 @@ I enjoy exploring new technologies and continuously improving my skills. With a 
     </tr>
   </table>
   <br>
-  <img src="https://streak-stats.demolab.com/?user=yukseelalkis&theme=tokyonight" alt="GitHub Streak Stats" />
 </p>
 
 
